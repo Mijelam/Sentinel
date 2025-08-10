@@ -1,0 +1,32 @@
+# Entornos virtuales
+env/
+.env
+.env.*
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Archivos de logs
+*.log
+
+# Archivos temporales o de cache
+*.sqlite3
+*.db
+*.tmp
+
+# Archivos de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Docker
+*.pid
+
